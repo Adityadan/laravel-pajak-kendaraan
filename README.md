@@ -1,6 +1,6 @@
 # 🚗 Backend - Aplikasi Pajak Kendaraan
 
-Backend REST API menggunakan Laravel 10 untuk menyediakan data pajak kendaraan dengan fitur:
+Backend REST API menggunakan Laravel 12 untuk menyediakan data pajak kendaraan dengan fitur:
 
 - Filter berdasarkan jenis kendaraan dan status pembayaran
 - Rekap data pajak (terbayar dan tunggakan)
@@ -10,7 +10,7 @@ Backend REST API menggunakan Laravel 10 untuk menyediakan data pajak kendaraan d
 
 ## 🔧 Teknologi
 
-- Laravel 10
+- Laravel 12
 - PHP >= 8.1
 - Laravel HTTP Client (Guzzle)
 - CORS (untuk komunikasi dengan frontend)
